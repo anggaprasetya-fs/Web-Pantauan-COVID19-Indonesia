@@ -1,12 +1,12 @@
 # Website Pantauan COVID 19 Indonesia / Indonesia COVID 19 Monitoring Website
 
-Indonesia :
+Indonesia : <br>
  Web ini memberikan data banyaknya kasus COVID 19  di Indonesia secara realtime dengan mengambil data api dari https://covid19.go.id/ .
  
  Info Lebih Lanjut tentang Dokumentasi API :
  - https://covid19.go.id/dokumentasi-api
 
-English   :
+English   : <br>
  This website provides data on the number of COVID 19 cases in Indonesia in real time by retrieving API data from https://covid19.go.id/.
  
  More Info About API Documentation :
